@@ -78,7 +78,7 @@ $RECYCLE.BIN/
 bin/
 tmp/
 *.swp
-#*~.nib
+# *~.nib
 local.properties
 .settings/
 .loadpath
@@ -103,7 +103,6 @@ target/
 
 ### Ansible ###
 *.retry
-
 
 ### VisualStudio ###
 ## Ignore Visual Studio temporary files, build results, and
